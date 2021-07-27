@@ -1,1 +1,3 @@
-# -GB-AI-Python-DS-libs-2-homeworks
+## GeekBrains course "Библиотеки Python для Data Science: продолжение" homeworks
+
+### WIP
