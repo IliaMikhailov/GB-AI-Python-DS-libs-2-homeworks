@@ -1,3 +1,5 @@
 ## GeekBrains course "Библиотеки Python для Data Science: продолжение" homeworks
 
-### WIP
+## WIP
+
+Lessons 1, 2, 3 and course project
