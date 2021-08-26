@@ -2,4 +2,4 @@
 
 ## WIP
 
-Lessons 1, 2, 3 and course project
+Lessons 1-4 and course project
